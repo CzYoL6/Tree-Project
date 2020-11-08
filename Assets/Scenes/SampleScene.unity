@@ -3153,7 +3153,7 @@ MonoBehaviour:
   m_FramePerSecond: 24
   m_Repeat: 0
   m_Quality: 15
-  m_BufferSize: 3
+  m_BufferSize: 20
   WorkerPriority: 1
 --- !u!1 &1107028036
 GameObject:
